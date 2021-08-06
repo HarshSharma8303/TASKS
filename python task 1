@@ -1,0 +1,2 @@
+a=int (input ("enter the value of the radius of circle"))
+print("the area of the circle is =",3.14*(a*a))
